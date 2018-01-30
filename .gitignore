@@ -1,0 +1,5 @@
+*.csproj
+Temp/
+.DS_Store
+*.zip
+*.pdb
